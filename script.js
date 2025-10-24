@@ -76,9 +76,6 @@ for (let food of friendFavorites) {
   }
 }
 
-//console.log(longFoodNames);
-
-
 // 8. Create another array shortFoodNames for foods 6 characters or shorter.
 let shortFoodNames = [];
 
@@ -87,9 +84,6 @@ for (let food of friendFavorites) {
     shortFoodNames.push(food);
   }
 }
-
-//console.log(shortFoodNames);
-
 
 // 9. Print both arrays and compare:
 // "There are more long-named foods." OR "There are more short-named foods."
