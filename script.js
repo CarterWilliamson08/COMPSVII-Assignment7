@@ -1,3 +1,4 @@
+//Carter Williamson
 console.log("Hello World!");
 // 1. Create an array called favoriteFoods with at least 6 foods you love.
 
